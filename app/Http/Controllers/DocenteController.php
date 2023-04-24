@@ -115,3 +115,6 @@ class DocenteController extends Controller
         return Redirect::to('docente');
     }
 }
+
+
+
